@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Buy challah",
+        "done": true
+    },
+    {
+        "name": "Cook cholent",
+        "done": true
+    },
+    {
+        "name": "Light candles",
+        "done": false
+    },
+    {
+        "name": "Set the table",
+        "done": false
+    },
+    {
+        "name": "Turn off phone",
+        "done": false
+    }
+]
